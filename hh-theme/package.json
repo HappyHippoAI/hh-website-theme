@@ -1,8 +1,8 @@
 {
-    "name": "gatsby-theme-portfolio-minimal",
+    "name": "hh-theme",
     "version": "0.1.0",
     "license": "MIT",
-    "author": "Konstantin Münster <mail@konstantin.digital>",
+    "author": "SBR",
     "main": "index.js",
     "scripts": {
         "build": "gatsby build",
@@ -73,13 +73,13 @@
         "slugify": "^1.6.5",
         "tiny-skeleton-loader-react": "^1.1.8"
     },
-    "homepage": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal#readme",
+    "homepage": "https://github.com/HappyHippoAI/hh-website-theme#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal.git"
+        "url": "https://github.com/HappyHippoAI/hh-website-theme.git"
     },
     "bugs": {
-        "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/issues"
+        "url": "https://github.com/HappyHippoAI/hh-website-theme/issues"
     },
     "keywords": [
         "react",

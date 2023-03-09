@@ -12,10 +12,6 @@ Portfolio Minimal is a Gatsby Theme. You can install it as a dependency in your 
 
 Just install the theme, add the content. That's it!
 
-## Resources
-
-<a href="https://gatsby-theme-portfolio-minimal.netlify.app/">Live Demo</a> · <a href="https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/tree/main/gatsby-theme-portfolio-minimal#readme">How To Get Started</a> · <a href="#issues">Issues</a>
-
 ## Features
 
 #### 🕹️ Quick and Easy Setup - Add content and deploy.
@@ -59,7 +55,3 @@ If you find any bugs or have feature suggestions, create a new issue or pull req
 Thanks a lot for using this theme! 💪
 
 ---
-
-<a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-Konstantin Münster – [konstantin.digital](https://konstantin.digital)
