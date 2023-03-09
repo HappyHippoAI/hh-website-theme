@@ -1,7 +1,7 @@
 module.exports = {
     plugins: [
         {
-            resolve: 'gatsby-theme-portfolio-minimal',
+            resolve: 'hh-theme',
             options: {
                 // siteUrl: "https://example.com", // Used for sitemap generation
                 manifestSettings: {
